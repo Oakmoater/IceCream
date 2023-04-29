@@ -1,21 +1,21 @@
 {
-  "name": "project-11",
+  "name": "icecream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Shadioso.github.io/project-11",
+  "homepage": "https://Oakmoater.github.io/IceCream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-11/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shadioso/project-11.git"
+    "url": "git+https://github.com/Oakmoater/IceCream.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Viktor Dubrovets <dubrovecva@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shadioso/project-11/issues"
+    "url": "https://github.com/Oakmoater/IceCream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
